@@ -1,0 +1,59 @@
+.App { 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header { 
+  background: #2e7d32;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.layout { display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  flex: 1;
+}
+
+.activities { flex: 2; }
+
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+  gap:1rem;
+ }
+
+.card { 
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.cart { 
+  flex: 1; 
+  background: #f1f1f1; 
+  padding: 1rem; 
+  border-radius: 8px; 
+}
+
+button { 
+  background: #2e7d32; 
+  color: white; 
+  border: none; 
+  padding: .5rem 1rem; 
+  border-radius: 4px; 
+  cursor: pointer; 
+}
+
+button:hover { 
+  background: #1b5e20;
+}
+
+.footer { 
+  background: #333; 
+  color: white; 
+  text-align: center; 
+  padding: 1rem; 
+}
