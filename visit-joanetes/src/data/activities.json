@@ -1,6 +1,6 @@
 [
-  { "id": 1, "name": "Anar a les gorgues", "description": "Piscines naturals a la riera.", "price": 2 },
-  { "id": 2, "name": "Pujar a Santa Magdalena i veure l'Estrella", "description": "Ruta panoràmica.", "price": 5 },
-  { "id": 3, "name": "Caminar fins al Puigsacalm", "description": "Excursió de muntanya.", "price": 0 },
-  { "id": 4, "name": "Visitar el Pessebre Vivent", "description": "Representació nadalenca.", "price": 8 }
+  { "id": 1, "name": "Anar a les gorgues", "description": "Piscines naturals a la riera.", "price": 2,"image": "/media/gorgues.jpg" },
+  { "id": 2, "name": "Pujar a Santa Magdalena i veure l'Estrella", "description": "Ruta panoràmica.", "price": 5, "image": "/media/estrella.jpg" },
+  { "id": 3, "name": "Caminar fins al Puigsacalm", "description": "Excursió de muntanya.", "price": 0, "image": "/media/puigsacalm.jpg" },
+  { "id": 4, "name": "Visitar el Pessebre Vivent", "description": "Representació nadalenca.", "price": 8, "image": "/media/pessebre.jpeg" }
 ]

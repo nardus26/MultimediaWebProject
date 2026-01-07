@@ -2,4 +2,14 @@ body {
   margin: 0; 
   font-family: system-ui, sans-serif; 
   background: #fafafa; 
+  color: #2f2f2f; 
 }
+
+h1 {
+  color: #1f1f1f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="footer">
+    <footer id="footer" className="footer">
       © 2025 — Bernat Pujolriu Juvanteny — Visit Joanetes
     </footer>
   );
